@@ -27,22 +27,16 @@ Features:
 3. Delete Tasks: Each task has a delete button, enabling users to remove completed or unwanted tasks.
 
 Technology used:
-HTML5: Provides the structural framework of the application.
-
-CSS3: Enhances the visual appeal and ensures responsive design.
-
-JavaScript (ES6): Implements interactivity and dynamic task management.
+1. HTML5: Provides the structural framework of the application.
+2. CSS3: Enhances the visual appeal and ensures responsive design.
+3. JavaScript (ES6): Implements interactivity and dynamic task management.
 
 Target Users:
-Individuals looking for a simple tool to track their tasks.
-
-Students and Developers learning the basics of front-end web development.
-
-Educators teaching core web development concepts.
+1. Individuals looking for a simple tool to track their tasks.
+2. Students and Developers learning the basics of front-end web development.
+3. Educators teaching core web development concepts.
 
 Advantages:
-Easy to use and deploy.
-
-Demonstrates core web development principles.
-
-Can be customized and scaled with additional features.
+1. Easy to use and deploy.
+2. Demonstrates core web development principles.
+3. Can be customized and scaled with additional features.
